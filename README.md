@@ -8,6 +8,7 @@ Theme for [FreeStyle Wiki](http://fswiki.osdn.jp/cgi-bin/wiki.cgi).
 
 - flat design.
 - Compatible with PCs and smartphones (responsive design).
+- Only css is used in smartphone menu (not use javascript).
 
 ## Screenshot
 
