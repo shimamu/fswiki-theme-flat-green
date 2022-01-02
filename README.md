@@ -4,11 +4,12 @@
 
 Theme for [FreeStyle Wiki](http://fswiki.osdn.jp/cgi-bin/wiki.cgi).
 
-## Feature
+## Features
 
 - flat design.
 - Compatible with PCs and smartphones (responsive design).
 - Only css is used in smartphone menu (not use javascript).
+- Uses [Font Awesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2) in icon.
 
 ## Screenshot
 
