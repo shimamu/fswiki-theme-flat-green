@@ -31,3 +31,14 @@ Theme for [FreeStyle Wiki](http://fswiki.osdn.jp/cgi-bin/wiki.cgi).
 
 1. Put 'theme' and 'tmpl' folder in dist folder on fswiki folder.
 2. Set site template 'flat-green' and theme 'flat-green' in admin menu.
+
+(recommend setting.)
+1. Comment out the style for wikipage in admin menu user css.
+2. Comment out the style for calendar plugin in admin menu user css.
+3. Add plugin [fswiki-theme-flat-green](https://github.com/shimamu/fswiki-plugin-shortlastmodified).
+4. Write below in wikipage 'Header'.
+
+   ```
+   {{shortlastmodified}}
+   {{outline}}
+   ```
