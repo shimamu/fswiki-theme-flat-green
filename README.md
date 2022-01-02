@@ -2,7 +2,7 @@
 
 ## What is this?
 
-Theme for FreeStyle Wiki.
+Theme for [FreeStyle Wiki](http://fswiki.osdn.jp/cgi-bin/wiki.cgi).
 
 ## How to install
 
